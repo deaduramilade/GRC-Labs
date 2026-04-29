@@ -1,0 +1,2 @@
+# Nmap 7.95 scan initiated Sat Apr 11 11:51:56 2026 as: /usr/lib/nmap/nmap --privileged -sV -sC -oA initial_scan 198.168.43.225
+# Nmap done at Sat Apr 11 11:51:58 2026 -- 1 IP address (0 hosts up) scanned in 1.93 seconds
