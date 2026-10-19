@@ -18,7 +18,7 @@ This repository contains the comprehensive incident response and business contin
 | **Institution** | International Cybersecurity and Digital Forensics Academy |
 | **Module** | GRC205: Incident Management and Business Continuity (Week 20) |
 | **Role Assumed** | Incident Response Lead |
-| **Scenario** | Northbridge Skills Institute — Suspected Ransomware Incident |
+| **Scenario** | Northbridge Skills Institute - Suspected Ransomware Incident |
 | **Primary Deliverable** | [`GRC205_IM_&_BC__GCR2512878_SAMUEL_ADEOLUWA_OKUNRIBIDO.pdf`](./GRC205_IM_%26_BC__GCR2512878_SAMUEL_ADEOLUWA_OKUNRIBIDO.pdf) |
 
 ---
@@ -65,7 +65,7 @@ The project deliverable addresses six critical domains of incident handling and 
 
 The response architecture, playbooks, and governance strategies align with globally recognized standards and local regulatory requirements:
 
-- **NIST SP 800-61 Rev. 3**: *Computer Security Incident Handling Guide* — Framework used for structuring incident lifecycle stages (Preparation, Detection & Analysis, Containment, Eradication & Recovery, Post-Incident Activity).
+- **NIST SP 800-61 Rev. 3**: *Computer Security Incident Handling Guide* - Framework used for structuring incident lifecycle stages (Preparation, Detection & Analysis, Containment, Eradication & Recovery, Post-Incident Activity).
 - **CISA #StopRansomware Guide**: Technical guidance utilized for ransomware prevention, operational containment, and secure recovery.
 - **Nigeria Data Protection Act (NDPA) 2023**: Governance rules applied for data subject notification and mandatory 72-hour breach reporting to the Nigeria Data Protection Commission (NDPC).
 
