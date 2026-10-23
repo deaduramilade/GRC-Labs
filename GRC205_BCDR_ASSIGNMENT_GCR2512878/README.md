@@ -347,19 +347,19 @@ Under the 2024 Climate Action changes to ISO management standards, climate-relat
 ## Repository Directory & Structure
 
 ```
-c:\Users\koola\Documents\GitHub\GRC-Labs\GRC205_BCDR_ASSIGNMENT_GCR2512878
+GRC205_BCDR_ASSIGNMENT_GCR2512878/
 │
 ├── README.md                                  # Executive summary, analytical dashboards, & lab overview
 │
 ├── GRC205_BCDR_Assignment_GCR2512878.pdf     # Primary formal academic submission (12-Page Master Report)
-│                                               ├── Executive Summary & Objectives
-│                                               ├── Five-Function BIA & Disruption Matrices
-│                                               ├── RTO/RPO/MTD Formulation & 3-2-1 Backup Topology
-│                                               ├── Cold vs. Warm vs. Hot Cost-Benefit Analysis
-│                                               ├── Coordinated BC/DR Plan, RACI Matrix, & Runbook
-│                                               ├── Two-Technician Recovery Schedule & Gantt Model
-│                                               ├── Tabletop Exercise Injects & CAPA Log
-│                                               └── Governance, ISO 22301/NIST Mapping, & References
+│   ├── Executive Summary & Objectives
+│   ├── Five-Function BIA & Disruption Matrices
+│   ├── RTO/RPO/MTD Formulation & 3-2-1 Backup Topology
+│   ├── Cold vs. Warm vs. Hot Cost-Benefit Analysis
+│   ├── Coordinated BC/DR Plan, RACI Matrix, & Runbook
+│   ├── Two-Technician Recovery Schedule & Gantt Model
+│   ├── Tabletop Exercise Injects & CAPA Log
+│   └── Governance, ISO 22301/NIST Mapping, & References
 │
 └── GRC205_BCDR_Assignment_GCR2512878.docx    # Microsoft Word submission document
 ```
